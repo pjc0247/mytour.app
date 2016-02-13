@@ -88,7 +88,7 @@ www/story/index.json
 네비게이터
 ----
 
-<img src="./navigator.png" width="330px" />
+<img src="./navigator.jpg" width="330px" />
 
 SeeAlso
 ----
