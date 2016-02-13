@@ -37,7 +37,7 @@ www/story/index.json
 
 <img src="./region_header_default.png" width="300px" />
 
-## __타이틀 위치 변경하기__
+#### __타이틀 위치 변경하기__
 기본적으로 타이틀은 중간 아래에 위치하지만 배경에 따라서 해당 위치는 적합하지 않을 수 있습니다.
 그럴 경우에 타이틀이 표시되는 위치를 변경해 이미지와 어울리도록 할 수 있습니다.
 
@@ -51,7 +51,7 @@ www/story/index.json
 ```
 각각의 속성은 옵션이므로 X 또는 Y 위치 둘중에 하나만 지정할 수도 있습니다.
 
-## __페이딩 효과 추가하기__
+#### __페이딩 효과 추가하기__
 ![fade](region_header_fade.png)
 
 ```json
@@ -62,7 +62,7 @@ www/story/index.json
 }
 ```
 
-## __라운드 엣지 적용하기__
+#### __라운드 엣지 적용하기__
 ![round](region_header_round.png)
 
 ```json
@@ -71,7 +71,7 @@ www/story/index.json
 }
 ```
 
-## __타이틀 색 변경하기__
+#### __타이틀 색 변경하기__
 ![color](region_header_color.png)
 
 ```json
