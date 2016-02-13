@@ -1,7 +1,7 @@
 썸네일 영역 작성하기
 ====
 
-<img src="./thumb.png width="300px" />
+<img src="./thumb.png" width="300px" />
 
 앱의 두번째 탭인 썸네일 화면을 설정하는 방법에 대해 설명합니다.
 
@@ -35,13 +35,13 @@ www/story/index.json
 ----
 기본적으로 지역 헤더는 아래와 같이 표시되지만 json 파일을 수정하여 다양한 옵션을 추가할 수 있습니다.
 
-<img src="./region_header_default.png" width="300px" />
+<img src="./region_header_default.png" width="400px" />
 
 #### __타이틀 위치 변경하기__
 기본적으로 타이틀은 중간 아래에 위치하지만 배경에 따라서 해당 위치는 적합하지 않을 수 있습니다.
 그럴 경우에 타이틀이 표시되는 위치를 변경해 이미지와 어울리도록 할 수 있습니다.
 
-<img src="./region_header_title_position.png" width="300px" />
+<img src="./region_header_title_position.png" width="330px" />
 
 ```json
 {
@@ -52,7 +52,7 @@ www/story/index.json
 각각의 속성은 옵션이므로 X 또는 Y 위치 둘중에 하나만 지정할 수도 있습니다.
 
 #### __페이딩 효과 추가하기__
-![fade](region_header_fade.png)
+<img src="./region_header_fade.png" width="330px" />
 
 ```json
 {
@@ -63,7 +63,7 @@ www/story/index.json
 ```
 
 #### __라운드 엣지 적용하기__
-![round](region_header_round.png)
+<img src="./region_header_round.png" width="330px" />
 
 ```json
 {
@@ -72,7 +72,7 @@ www/story/index.json
 ```
 
 #### __타이틀 색 변경하기__
-![color](region_header_color.png)
+<img src="./region_header_color.png" width="330px" />
 
 ```json
 {
@@ -88,7 +88,7 @@ www/story/index.json
 네비게이터
 ----
 
-![navigator](navigator.jpg)
+<img src="./navigator.png" width="330px" />
 
 SeeAlso
 ----
