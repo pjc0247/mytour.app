@@ -2,7 +2,7 @@
 ====
 이 장에서는 프로필 탭을 클릭하면 나오는 화면을 설정하는 방법에 대해서 설명합니다.
 
-![profile](profile.jpg)
+<img src="./profile.jpg" width="300px" />
 
 기본 정보 작성하기
 ----
