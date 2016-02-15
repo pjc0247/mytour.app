@@ -4,7 +4,8 @@
 <img src="./thumb.png" width="300px" />
 
 앱의 두번째 탭인 썸네일 화면을 설정하는 방법에 대해 설명합니다.<br>
-In this section, we'll learn how to configure the thumbnail list page.
+In this section, we'll learn how to configure the thumbnail list page.<br>
+ここではアプリのサムネページを構成する方を説明します。
 
 인덱스 파일 생성하기
 ----
@@ -30,7 +31,8 @@ www/story/index.json
 
 대단위 지역([RegionHeader](region_header.md))을 나타낼 경우 id 앞에 콜론(`:`)을 추가합니다.<br>
 콜론을 추가하게 되면 자동으로 지역으로 인식됩니다.<br>
-The id which starts with a colon(`:`) will be automatically treated as a RegionHeader.
+An id which starts with a colon(`:`) will be automatically treated as a RegionHeader.<br>
+IDの前でコロンを付けば自動的に大単位地域で認識されます。
 
 
 지역 헤더 꾸미기
