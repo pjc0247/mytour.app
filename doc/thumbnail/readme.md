@@ -94,7 +94,7 @@ Each attributes are optional. You can specify a single value 'X' or 'Y'.
 To change further more options, Please refer to the '(REF: RegionHeader)' page.<br>
 Note that some options are not affected in the Navigator menu.
 <br>
-もっと詳しくなオプションは'(REF: RegionHeader)'ページを参考してください。
+もっと詳しくなオプションは'(REF: RegionHeader)'ページを参考してください。<br>
 一部オプションはナビゲーターメーニュでは適用されない可能性もありますことに注意して下さい。
 
 
