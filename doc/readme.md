@@ -13,3 +13,29 @@ Advanced
 ----
 #### 스탠드얼론 웹 페이지로 배포하기
 #### 탭 페이지 추가하기
+
+<br><br>
+Guides
+====
+
+Each section describe you how to customize each pages & features.
+
+#### [Recognizing thumbnail list page](thumbnail)
+#### [Adding a story](story)
+#### [Setting up your personal profile](profile)
+#### [Changing applications's icon & name](app)
+#### [Customizing application fonts](font)
+
+Advanced
+----
+#### Publishing as a standalone web-app.
+#### Adding a new tab page.
+
+<br><br>
+ガイド
+====
+
+Advanced
+----
+#### スタンドアロンWEB-APPで配布する
+#### ページを追加する
